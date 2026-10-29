@@ -3,7 +3,7 @@
 ### hey, i'm kshitij
 
 designer, building stuff here :)  
-ux, ui, graphics and a lot of music. bangalore.
+ux, ui, graphics and a lot of music.
 
 <br>
 
