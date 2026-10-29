@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="kshitij" width="100%">
-</picture>
+<img src="assets/header.png" alt="kshitij is designing and building stuff" width="100%">
 
 ### hey, i'm kshitij
 
