@@ -1,5 +1,7 @@
 <img src="assets/header.png" alt="kshitij is designing and building stuff" width="100%">
 
+### hey, i'm kshitij
+
 ux, ui, graphics and a lot of music.
 
 <br>
