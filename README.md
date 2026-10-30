@@ -7,12 +7,12 @@ ux, ui, graphics and a lot of music.
 <br>
 
 <p>
-  <a href="https://github.com/kshitij0299/noddy"><img src="https://raw.githubusercontent.com/kshitij0299/noddy/dev/src/common/graphics/noddy-logo-big.svg" alt="Noddy" width="190"></a>
+  <a href="https://kshitij.wiki/noddy"><img src="https://raw.githubusercontent.com/kshitij0299/noddy/dev/src/common/graphics/noddy-logo-big.svg" alt="Noddy" width="190"></a>
 </p>
 
 **building noddy rn.** an open-source font editor where you talk to your type and an agent draws it with you, live. you can still grab the pen and fix any letter yourself.
 
-<a href="https://github.com/kshitij0299/noddy">
+<a href="https://kshitij.wiki/noddy">
   <img src="https://res.cloudinary.com/dnsylvhmw/video/upload/w_880,fps_12,e_loop/ux-portfolio-2026/case-studies/noddy/film.gif" alt="Claude Code remixing a pixel font in Noddy" width="100%">
 </a>
 
@@ -22,7 +22,7 @@ ux, ui, graphics and a lot of music.
 
 still in development, so things break sometimes. that's half the fun.
 
-**[try it →](https://github.com/kshitij0299/noddy)**
+**[try it →](https://kshitij.wiki/noddy)** &nbsp;·&nbsp; [code](https://github.com/kshitij0299/noddy)
 
 <br>
 
@@ -39,4 +39,4 @@ still in development, so things break sometimes. that's half the fun.
 
 #### elsewhere
 
-[kshitij.wiki](https://www.kshitij.wiki/)
+[guest.kshitij.wiki](https://guest.kshitij.wiki)
